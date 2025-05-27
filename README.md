@@ -39,4 +39,4 @@ This is a responsive landing page for WordWise, an upcoming platform for learnin
 - Customize colors, fonts, or animations as needed.
 
 ## Contact
-For questions, email `gatewayenglishlearningapp@gmail.com`.
+For questions, email oluwafemisunmola2020@gmail.com.
